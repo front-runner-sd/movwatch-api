@@ -148,5 +148,5 @@ git push -u origin <your_branch_name>
 ## Contributors
 
 <a href="https://github.com/krishnenduroy52/movwatch-api/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=krishnenduroy52/movwatch-api" />
+  <img src="https://contrib.rocks/image?repo=front-runner-sd/movwatch-api" />
 </a>
